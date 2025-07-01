@@ -56,6 +56,7 @@ docker run -p 8083:3000 oso_olubunmi2_coding_assignment12
 Then open [http://localhost:8083](http://localhost:8083) in your browser.
 
 ---
+##  "docker": "docker compose up --build"
 
 ## 📚 Learn More
 
