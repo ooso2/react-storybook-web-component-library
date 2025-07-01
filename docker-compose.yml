@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  ui-garden:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: oso_olubunmi2_coding_assignment12
+    ports:
+      - "8083:8083"
